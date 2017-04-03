@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-TOMEK</Machine>
+    <WindowsUser>tomwi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>edf60f3c-72c7-4df1-af03-1cb62c5f55c7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=tomwi</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\Picross.exe">
+      <PackagePath>Picross.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\Assets\musicMenu.mp3">
+      <PackagePath>Assets\musicMenu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\Picross.xr.xml">
+      <PackagePath>Picross.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\Credits.xbf">
+      <PackagePath>Credits.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\Easy5x5.xbf">
+      <PackagePath>Easy5x5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\Hard7x7.xbf">
+      <PackagePath>Hard7x7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\Normal6x6.xbf">
+      <PackagePath>Normal6x6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\Options.xbf">
+      <PackagePath>Options.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIA\Aplikacje mobilne\Nonogram\Nonogram\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
